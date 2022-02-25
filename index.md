@@ -22,7 +22,9 @@ LugMovies Link-[https://sites.google.com/glsstudent.org/repo/welcome]
 
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEw3lZHq_sSUmJJrcGwCNVMNZr1QnxIuNDdFZiXQVPA9n8oBmdQ3-UCZVw7KcGqPwR3CbqtlxknJHb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEw3lZHq_sSUmJJrcGwCNVMNZr1QnxIuNDdFZiXQVPA9n8oBmdQ3-UCZVw7KcGqPwR3CbqtlxknJHb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-PD-gsEEvalJIv4NIU160VgnhhUnvOqevCDduS2zbuWWEbAAJ3pDPZOTGOBBDJr0Diw8RmUxzJEP0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <iframe src="https://advanced-channeler.02.gz-associates.com/?t=tam-color-tunnel" frameborder="0" width="1152" height="682" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
 <!DOCTYPE html>
