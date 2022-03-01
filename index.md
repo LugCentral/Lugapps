@@ -2,7 +2,7 @@
 
 
 ### -Resources Hub-
-LugApps-Main Link-[https://sites.google.com/glsstudent.org/lug/home/]
+LugApps-Main Link-[Link][https://sites.google.com/glsstudent.org/lug/home/]
 LugMovies Link-[https://sites.google.com/glsstudent.org/repo/welcome]
 
 :Sites Created In Google Sites:
